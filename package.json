@@ -1,0 +1,15 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "A simple request header parser microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond To",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ip": "^1.1.5"
+  }
+}
